@@ -1,0 +1,7 @@
+create 3 accounts
+can send text,images,docx,pdfs
+run backend first 
+cd backend
+npm start/npm run dev
+run frontend
+npm frontend

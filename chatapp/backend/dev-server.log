@@ -1,0 +1,34 @@
+
+> chatapp-backend@1.0.0 dev
+> nodemon server.js
+
+[33m[nodemon] 3.1.14[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node server.js`[39m
+MongoDB connected: ac-xcssnao-shard-00-00.lvld4yl.mongodb.net
+Server running on http://localhost:5000
+Socket connected: vvZN0oX8JnJ-CYBkAAAB
+Socket connected: xNJvwjm6HhDrs3DMAAAD
+Socket connected: 25Ds3Rt4r1ejwowPAAAF
+Socket connected: VvTVZaN0QYOoWEB5AAAH
+User online: 69ecc7fa5bd2a41ea153f62d
+User offline: 69ecc7fa5bd2a41ea153f62d
+User online: 69ecc7fa5bd2a41ea153f62d
+User online: 69ecc7fa5bd2a41ea153f62d
+User online: 69ecc7fa5bd2a41ea153f62d
+Socket connected: WHRT0ksvET88vUz3AAAJ
+User online: 69ecd58219a0f5a73009dc09
+User online: 69ecd58219a0f5a73009dc09
+User offline: 69ecd58219a0f5a73009dc09
+User offline: 69ecc7fa5bd2a41ea153f62d
+Socket connected: UJLq60yLVek300shAAAL
+Socket connected: Uc6-NUNX1yOUPJgiAAAN
+User online: 69ecd58219a0f5a73009dc09
+User online: 69ecd58219a0f5a73009dc09
+User online: 69ecc7fa5bd2a41ea153f62d
+User online: 69ecc7fa5bd2a41ea153f62d
+User offline: 69ecc7fa5bd2a41ea153f62d
+User offline: 69ecd58219a0f5a73009dc09
+[31m[nodemon] app crashed - waiting for file changes before starting...[39m
